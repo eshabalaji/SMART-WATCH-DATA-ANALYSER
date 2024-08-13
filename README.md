@@ -12,7 +12,6 @@ The Smart Watch Data Analyzer analyzes sleep patterns, distinguishing REM, deep,
     2.Install streamlit <br>
 
     pip install streamlit<br>
-    <br>
     <b>About page</b><br>
     <img width="921" alt="image" src="https://github.com/user-attachments/assets/ae9ef459-ec3c-4acf-939e-1e0186219ee3"><br>
     <b>General Analysis<br>

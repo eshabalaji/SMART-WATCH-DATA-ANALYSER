@@ -7,6 +7,13 @@ The Smart Watch Data Analyzer analyzes sleep patterns, distinguishing REM, deep,
     project aims to enhance personal health management, offering actionable insights and 
     emergency support to promote better health and wellbeing.<br>
     The dataset Sleep_Efficiency was taken from kaggle<br>
+    <b>Prerequisits</b>
+    1.py interpreter<br>
+    2.Install streamlit <br>
+
+    pip install streamlit
+
+    <br>
     <br>
     <b>About page</b><br>
     <img width="921" alt="image" src="https://github.com/user-attachments/assets/ae9ef459-ec3c-4acf-939e-1e0186219ee3"><br>
@@ -18,7 +25,10 @@ The Smart Watch Data Analyzer analyzes sleep patterns, distinguishing REM, deep,
     <br>
     <br>
     <b>User Analysis</b><br>
-    
     The user input data is validated and checked for the criteria.<br>
   <img width="917" alt="image" src="https://github.com/user-attachments/assets/711ce451-96e6-4fc7-8665-328ed38e0999">
+
+  <b>To run the above code</b><br>
+
+  streamlit run About.py<br>
 

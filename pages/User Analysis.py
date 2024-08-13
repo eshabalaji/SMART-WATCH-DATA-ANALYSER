@@ -155,7 +155,7 @@ mail = st.text_input("")
 
 if st.button("Mail the Analysis"):
     if '@' in mail:
-        sender_email = 'esbaroya@gmail.com'
+        sender_email = 'your_mail_id' #enter your mail id 
         receiver_email = mail
         subject = 'Report'
         body = (f'''Age : {age}\n\nGender : {gender}\n\nBed time : {bedtime}
@@ -166,7 +166,7 @@ if st.button("Mail the Analysis"):
     #\n\nAverage Sleep Time : {sleep_duration}
 
         # Sender email password
-        sender_password = 'rivu nfjh fmvy jlho'  # Replace with actual password
+        sender_password = 'your_password'  # Replace with actual password
 
         try:
             send_email(sender_email, receiver_email, subject, body, sender_password)

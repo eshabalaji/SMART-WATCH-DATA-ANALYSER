@@ -18,6 +18,7 @@ The Smart Watch Data Analyzer analyzes sleep patterns, distinguishing REM, deep,
     <br>
     <br>
     <b>User Analysis</b><br>
+    
     The user input data is validated and checked for the criteria.<br>
   <img width="917" alt="image" src="https://github.com/user-attachments/assets/711ce451-96e6-4fc7-8665-328ed38e0999">
 
